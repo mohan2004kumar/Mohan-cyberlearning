@@ -29,7 +29,7 @@ Welcome to my cybersecurity training repo! This project documents my hands-on jo
 - Next: Nmap scanning (Week 2).
 
 ## Contact
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: www.linkedin.com/in/mohan-kumar-3a953a1a5
+- Email: mohankumarbandi208@gmail.com
 
 *Licensed under MIT—feel free to explore and contribute!*
